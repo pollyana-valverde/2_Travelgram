@@ -42,13 +42,13 @@ Foi desenvolvido para praticar **HTML e CSS** com foco em:
 Clone este repositório:
 
 ```bash
-git clone https://github.com/pollyana-valverde/2_Travelgram.git
+git clone https://github.com/pollyana-valverde/Travelgram.git
 ```
 
 Acesse a pasta:
 
  ```bash
-cd 2_Travelgram
+cd Travelgram
 ```
 
 Abra o arquivo **index.html** no navegador.
